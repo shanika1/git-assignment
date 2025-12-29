@@ -1,0 +1,3 @@
+Name: Shanika Wickramasinghe
+Role: QA / Student
+Leasrning: Git & GitHub
